@@ -1,0 +1,26 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "homepage": "https://github.com/qwelp",
+  "authors": [
+    "qwelp <qwelp@mail.ru>"
+  ],
+  "description": "y",
+  "moduleType": [],
+  "license": "MIT",
+  "dependencies": {
+    "normalize.css": "*",
+    "bootstrap": "3.*",
+    "jquery": "2.*"
+  },
+  "main": "y",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    ".idea",
+    "tests"
+  ]
+}
